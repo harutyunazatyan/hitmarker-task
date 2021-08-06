@@ -2,7 +2,7 @@
   <div class="flex flex-col md:flex-row md:items-center justify-between py-10 overflow-hidden" :class="[!menu ? 'h-110' : 'h-auto']">
     <div class="flex items-center justify-between">
       <a href="#">
-        <img src="../assets/svg/header-logo.svg" alt="logo">
+        <img src="../assets/svg/header-logo.svg" width="167" height="30" alt="logo">
       </a>
       <button class="md:hidden text-white h-10 w-10 rounded-full bg-primary text-3xl transform transition duration-100" :class="{'rotate-45': menu}" @click="openMenu">+</button>
     </div>

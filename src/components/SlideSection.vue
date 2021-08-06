@@ -58,11 +58,11 @@ export default {
 </script>
 
 <style scoped>
-a:hover svg ellipse {
+button:hover svg ellipse {
   fill-opacity: 1;
   fill: #FF6810;
 }
-a:hover svg path {
+button:hover svg path {
   stroke: #fff;
 }
 </style>

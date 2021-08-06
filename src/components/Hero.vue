@@ -9,9 +9,9 @@
             With over 8,000 active listings from more than 50 countries, Hitmarker is the largest gaming and esports
             jobs platform in the world. Find your dream career. Hire top talent. Make your mark.
           </p>
-          <div class="mt-14 flex items-center">
-            <a href="#" class="inline-block shadow-inner rounded-md font-bold bg-primary text-white py-4 px-14 mr-10">View Jobs</a>
-            <a href="#" class="flex items-center text-white-90 leading-6 hover:underline">
+          <div class="mt-14 flex flex-col sm:flex-row sm:items-center">
+            <a href="#" class="inline-block text-center shadow-inner rounded-md font-bold bg-primary text-white py-4 px-14 mr-10">View Jobs</a>
+            <a href="#" class="flex justify-center items-center mt-4 sm:mt-0 text-white-90 leading-6 hover:underline">
               <span class="flex justify-center items-center w-10 h-10 mr-2 border rounded-full">
                 <img src="../assets/svg/play.svg" width="15" height="16" class="ml-1" alt="play">
               </span>
